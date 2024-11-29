@@ -1,12 +1,5 @@
 # 👋 Hi, I’m Fahad (@FAHAD321RCF)
 
-while (true) {
-  learn();
-  build();
-  grow();
-}
-
-
 ## 👀 About Me
 - 🌱 I’m passionate about **web development** and currently learning **JavaScript** to enhance my skills.
 - 🎯 Exploring the exciting world of **front-end technology** to build dynamic and responsive websites.
