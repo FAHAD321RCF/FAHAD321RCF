@@ -24,5 +24,5 @@
 
 ---
 
-✨ Thanks for stopping by my profile! Let’s create something amazing together. ✨
+
 
