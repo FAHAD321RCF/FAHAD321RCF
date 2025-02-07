@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="1000">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=100&lines=Hi+there%2C+I'm+Abir+Kolin+%F0%9F%91%8B;Full+Stack+Developer;Blockchain+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=100&lines=Hi+there%2C+I'm+Md.Rishad Chowdhury+Fahad+%F0%9F%91%8B;alt="Typing SVG" />
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
@@ -89,7 +89,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
 
-### Thanks for visiting! <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-524275fb6e53.gif" width="30">
 ### Have a great day! <img src="https://user-images.githubusercontent.com/74038190/216127924-de691bee-6508-4db9-902a-b499372d5d11.gif" width="30">
 
 </div>
