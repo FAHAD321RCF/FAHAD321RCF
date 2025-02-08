@@ -5,8 +5,8 @@
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&height=100&lines=I'm+Rishad+Chowdhury+Fahad+%F0%9F%91%8B;Front+End+Developer;" alt="Typing SVG" />
   </h1>
-  ---
-## 🚀 About Me
+  
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
   
   <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
   
@@ -20,3 +20,4 @@
 <a href="mailto:rcffahad1018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
   ---
+
