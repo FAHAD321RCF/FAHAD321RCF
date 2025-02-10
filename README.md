@@ -15,7 +15,7 @@
   
   ---
 
-  ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+  ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -41,8 +41,11 @@
   </a>
   
   ---
-  
-  <div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> GitHub Evidence
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAHAD321RCF&theme=react-dark&hide_border=true&area=true" width="90%">
     <img  src="https://github-readme-stats.vercel.app/api?username=FAHAD321RCF&&show_icons=true&theme=radical"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHAD321RCF&hide=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
       <h3>✨ Thanks for visiting! Have a great day! ✨</h3>
