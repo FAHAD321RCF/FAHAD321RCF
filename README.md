@@ -43,6 +43,7 @@
   ---
   
   <div>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
     <h3>✨ Thanks for visiting! Have a great day! ✨</h3>
     <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
   </div>
