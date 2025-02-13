@@ -48,6 +48,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FAHAD321RCF&theme=react-dark&hide_border=true&area=true" width="90%">
     <img  src="https://github-readme-stats.vercel.app/api?username=FAHAD321RCF&&show_icons=true&theme=radical"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAHAD321RCF&hide=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img src="https://github-readme-streak-daydreamsdeveloper.vercel.app/?user=FAHAD321RCF&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
       <h3>✨ Thanks for visiting! Have a great day! ✨</h3>
     <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="900">
   </div>
